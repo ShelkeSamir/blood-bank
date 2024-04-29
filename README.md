@@ -1,2 +1,0 @@
-# blood-bank
-test
