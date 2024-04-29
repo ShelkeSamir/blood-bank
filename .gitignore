@@ -209,3 +209,4 @@ mvnw*
 .DS_Store
 .idea/
 *.iml
+*test
